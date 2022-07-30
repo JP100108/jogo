@@ -1,0 +1,13 @@
+html, body {
+  margin: 0;
+  padding: 0;
+}
+canvas {
+  display: block;
+}
+
+.customButton {
+  background-color: #000000;
+  outline: none;
+
+}
